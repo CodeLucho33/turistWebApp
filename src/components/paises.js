@@ -3,13 +3,13 @@ export const paises = [
     nombre: "Colombia",
     breveDescripcion: "País de América del Sur, conocido por su café y biodiversidad.",
     actividad1: "Visitar el Parque Nacional Natural Tayrona y disfrutar de sus playas.",
-    url1: "/public/Tayrona.jpeg",
+    url1: "/Tayrona.jpeg",
     razon1: "Experimenta la belleza natural y la tranquilidad de sus playas vírgenes.",
     actividad2: "Recorrer la Ciudad Perdida en la Sierra Nevada de Santa Marta.",
-    url2: "/public/sierraNevada.jpeg",
+    url2: "/sierraNevada.jpeg",
     razon2: "Explora una de las civilizaciones más antiguas de América del Sur.",
     actividad3: "Explorar el Eje Cafetero y aprender sobre la producción de café.",
-    url3: "/public/ejeCafetero.jpeg",
+    url3: "/ejeCafetero.jpeg",
     razon3: "Descubre el origen del famoso café colombiano y sus paisajes únicos."
   },
   {
