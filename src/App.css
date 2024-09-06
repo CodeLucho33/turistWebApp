@@ -1,0 +1,158 @@
+body{
+  background-color: beige;
+}
+/* *******************************************************HEADER*********************************************************** */
+/* **********************************************************HEADER********************** */
+.btn-other-place {
+  border: none;
+  background-color: blue;
+  color: black;
+  font-weight: bold;
+  font-size: 2rem;
+  padding: .3em .5em;
+  border-radius: 1em;
+
+}
+
+.title-top-activities {
+  width: 40%;
+  margin: 0 auto;
+  text-align: center;
+  background-color: gray;
+}
+
+
+span {
+  color: blue;
+}
+
+p {
+  font-size: 1.6rem;
+}
+
+
+/*********************************** BAR CONTACT ***********************************************************************/
+/* ******************************************************************************************************************* */
+
+
+
+.bar-contact {
+  margin-left: -25em;
+  margin-top: 2em;
+  
+  height: 80%;
+  width: 50%;
+}
+
+ul {
+  
+  list-style: none;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  
+  font-size: 2rem;
+  height: 100%;
+  width: 50%;
+  
+}
+li:hover{
+cursor: pointer;
+}
+a{
+  color: inherit;
+}
+/* *********************************************CARD PRESENTATION********************************************************+ */
+/* ********************************************************************************************************************** */
+.btn-contact {
+  height: 30%;
+  align-self: center;
+  font-size: 2rem;
+  border: none;
+  border-radius: 1em;
+  padding: .3em .5em;
+  font-weight: bold;
+  background-color: black;
+  color: white;
+}
+
+.presentation-card {
+  width: 40%;
+  height: 30%;
+  background-color: blue;
+  display: flex;
+  gap: 1em;
+  padding: 1em;
+  margin: 0 auto;
+  font-weight: bold;
+  color: black;
+}
+
+.my-photo {
+  width: 50%;
+  border-radius: 50%;
+  border: .3em solid white
+}
+
+.btn-contact:hover {
+  cursor: pointer;
+}
+
+.btn-contact:active {
+  background-color: grey;
+}
+
+.card-plus-contact {
+  display: flex;
+
+
+}
+
+/* ***************************************************HEADER****************************************************** */
+/* ******************************************************HEADER********************************************************* */
+.btn-other-place:hover {
+  cursor: pointer;
+  color: white;
+}
+
+.btn-other-place:active {
+  background-color: greenyellow;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* **********************************************MAIN SECTION(top activities)**************************************************************** */
+/* *************************************************************************************************************** */
+.activity-one,
+.activity-two,
+.activity-three {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  background-color: whitesmoke;
+}
+
+.content-activites {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.top-activities {
+  display: flex;
+  border: 2em solid white;
+}
+
+.img-top-activity {
+
+  width: 60%;
+  border-radius: 50%;
+  border: .5em solid white;
+}
