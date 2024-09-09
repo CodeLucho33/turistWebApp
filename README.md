@@ -4,7 +4,7 @@
 
 ## Características principales:
 
-- Explora una amplia gama de destinos turísticos en Colombia.
+- Explora una amplia gama de destinos turísticos en el mundo.
 - Información detallada sobre la cultura, historia y recomendaciones locales.
 - Interfaz moderna y fácil de navegar.
 - Herramientas personalizadas para planificar viajes y crear itinerarios.
