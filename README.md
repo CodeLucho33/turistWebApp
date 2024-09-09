@@ -21,9 +21,10 @@ Puedes explorar la plataforma en el siguiente enlace:
 
 ## Tecnologías utilizadas:
 
-- **Next.js**: para el desarrollo del frontend.
+- **Vite**: Entorno de dearrollo frontend.
 - **Vercel**: para el despliegue y hosting.
 - **CSS**: para el diseño responsivo y estilizado.
+- **Librería de React**: Integración CSS, JS y HTML.
 
 ## Contribución:
 
