@@ -1,6 +1,6 @@
 # Turist Web
 
-**Turist Web** es una plataforma interactiva diseñada para ayudar a los usuarios a explorar los destinos turísticos más fascinantes de Colombia. A través de una experiencia visualmente atractiva y fácil de usar, los usuarios pueden descubrir lugares únicos, aprender sobre la cultura local y planificar sus aventuras con herramientas útiles.
+**Turist Web** es una plataforma interactiva diseñada para ayudar a los usuarios a explorar los destinos turísticos más fascinantes de algunos lugares del mundo. A través de una experiencia visualmente atractiva y fácil de usar, los usuarios pueden descubrir lugares únicos, aprender sobre la cultura local y planificar sus aventuras con herramientas útiles.
 
 ## Características principales:
 
