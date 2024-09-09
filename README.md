@@ -1,31 +1,30 @@
 # Turist Web
 
-**Turist Web** es una plataforma interactiva diseñada para ayudar a los usuarios a explorar los destinos turísticos más fascinantes de algunos lugares del mundo. A través de una experiencia visualmente atractiva y fácil de usar, los usuarios pueden descubrir lugares únicos, aprender sobre la cultura local y planificar sus aventuras con herramientas útiles.
+**Turist Web** is an interactive platform designed to help users explore the most fascinating tourist destinations in various parts of the world. Through a visually appealing and user-friendly experience, users can discover unique places, learn about local culture, and plan their adventures with useful tools.
 
-## Características principales:
+## Main Features:
 
-- Explora una amplia gama de destinos turísticos en el mundo.
-- Información detallada sobre la cultura, historia y recomendaciones locales.
-- Interfaz moderna y fácil de navegar.
-- Herramientas personalizadas para planificar viajes y crear itinerarios.
-- Compatible con dispositivos móviles para acceder en cualquier lugar.
+- Explore a wide range of tourist destinations around the world.
+- Detailed information on culture, history, and local recommendations.
+- Modern and easy-to-navigate interface.
+- Customized tools for planning trips and creating itineraries.
+- Mobile-friendly for access anywhere.
 
-## Objetivo:
+## Objective:
 
-El objetivo de **Turist Web** es proporcionar a los viajeros y curiosos una forma fácil y atractiva de descubrir Colombia. La plataforma combina una navegación intuitiva con contenido informativo para que los usuarios puedan conocer los mejores destinos del país.
+The goal of **Turist Web** is to provide travelers and curious individuals with an easy and attractive way to discover Colombia. The platform combines intuitive navigation with informative content so that users can get to know the best destinations in the country.
 
-## Cómo acceder:
+## How to Access:
 
-Puedes explorar la plataforma en el siguiente enlace:  
+You can explore the platform at the following link:  
 [Turist Web](https://turist-web-4iwfq9rzb-luis-restrepos-projects.vercel.app/)
 
-## Tecnologías utilizadas:
+## Technologies Used:
 
-- **Vite**: Entorno de dearrollo frontend.
-- **Vercel**: para el despliegue y hosting.
-- **CSS**: para el diseño responsivo y estilizado.
-- **Librería de React**: Integración CSS, JS y HTML.
+- **Vite**: Frontend development environment.
+- **Vercel**: For deployment and hosting.
+- **React Library**: Integration of CSS, JS, and HTML.
 
-## Contribución:
+## Contribution:
 
-Si deseas contribuir a este proyecto, puedes hacer un fork, crear una rama con tus cambios y enviar un pull request. ¡Toda colaboración es bienvenida!
+If you wish to contribute to this project, you can fork it, create a branch with your changes, and submit a pull request. All collaboration is welcome!
