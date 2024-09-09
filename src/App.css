@@ -16,7 +16,7 @@ body{
 
 .title-top-activities {
   width: 40%;
-  margin: 0 auto;
+  margin: 1em auto;
   text-align: center;
   background-color: gray;
 }
@@ -85,7 +85,7 @@ a{
   display: flex;
   gap: 1em;
   padding: 1em;
-  margin: 0 auto;
+  margin: 1em auto;
   font-weight: bold;
   color: black;
 }
@@ -108,6 +108,10 @@ a{
   display: flex;
 
 
+}
+.my-name-card{
+  color: white;
+  text-decoration: underline;
 }
 
 /* ***************************************************HEADER****************************************************** */
@@ -137,12 +141,16 @@ a{
   align-items: center;
   justify-content: space-between;
   background-color: whitesmoke;
+  padding-left: 1em ;
+  padding-right: 1em;
 }
 
 .content-activites {
+  
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  
 }
 
 .top-activities {
@@ -155,4 +163,27 @@ a{
   width: 60%;
   border-radius: 50%;
   border: .5em solid white;
+}
+
+/* queries******************************************************************************** */
+/* **********************************************************************************queries */
+@media(max-width:480px){
+  .title-top-activities{
+    display: none;
+  }
+  .content-activites {
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+  }
+ 
+  .txt-why{
+    display: none;
+  }
+  .presentation-card {
+    display: flex;
+    flex-direction: row;
+  }
 }
